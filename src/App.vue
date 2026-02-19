@@ -206,7 +206,7 @@ onUpdated(() => {
       </svg>
     </button>
     <div class="app">
-      <h1>🍌 Nano Banana GUI</h1>
+      <h1>🍌 Nano Banana GUI (OpenRouter)</h1>
 
     <div class="layout">
       <div ref="inputColumnRef" class="column input-column">

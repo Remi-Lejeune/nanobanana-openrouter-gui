@@ -1,4 +1,4 @@
-# 🍌 Nano Banana GUI
+# 🍌 Nano Banana GUI (OpenRouter)
 
 A simple and elegant GUI for AI image generation using OpenRouter's image models (Gemini 2.5 Flash Image & Gemini 3 Pro Image).
 
