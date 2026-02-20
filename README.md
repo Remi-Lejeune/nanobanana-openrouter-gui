@@ -2,6 +2,8 @@
 
 A simple and elegant GUI for AI image generation using OpenRouter's image models (Gemini 2.5 Flash Image & Gemini 3 Pro Image).
 
+**[Try it live](https://remi-lejeune.github.io/nanobanana-openrouter-gui/)**
+
 ## Features
 
 - **Image Generation** - Generate images from text prompts
